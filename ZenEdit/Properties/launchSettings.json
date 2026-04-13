@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ZenEdit (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ZenEdit (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
